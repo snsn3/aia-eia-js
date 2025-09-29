@@ -46,7 +46,9 @@
     "L'EIA",
     "Tradeoffs",
     "SLGBTQI",
-    "ELGBTQI"
+    "ELGBTQI",
+    "extrants",
+    "analyzed"
   ],
   "flagWords": [],
   "import": ["./node_modules/@cspell/dict-fr-fr/cspell-ext.json"],
