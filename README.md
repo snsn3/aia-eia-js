@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/canada-ca/aia-eia-js.svg?branch=master)](https://travis-ci.com/canada-ca/aia-eia-js/)
-
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
 # Algorithmic Impact Assessment Tool
