@@ -2,7 +2,7 @@
 
 ([Français](#gabarit-pour-dépôts-de-code-source-ouvert-du-gouvernement-du-canada))
 
-# Algorithmic Impact Assessment
+# Algorithmic Impact Assessment Tool
 
 This project hosts a prototype of the Algorithmic Impact Assessment (AIA) developed in Typescript.
 
@@ -75,7 +75,7 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ______________________
 
-# Évaluation de l'incidence algorithmique
+# Outil pour Évaluation de l'incidence algorithmique
 
 Ce projet accueillera un prototype de la prochaine itération de l'étude d'impact algorithmique (EIA) développé en JavaScript.
 
